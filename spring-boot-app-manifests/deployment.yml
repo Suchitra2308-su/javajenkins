@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: suchitrar2308/sbjava:replaceImageTag
+        image: suchitrar2308/sbjava:9
         ports:
         - containerPort: 8080
